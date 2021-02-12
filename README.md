@@ -2,6 +2,8 @@
 
 In this Django app, teachers can create quizzes and students can sign up and take quizzes related to their interests.
 
+![alt text](Quizziz.png "Quizziz")
+
 ## Running the Project Locally
 
 First, clone the repository to your local machine:
