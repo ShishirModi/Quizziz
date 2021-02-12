@@ -18,6 +18,12 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
+Go into folder django_school:
+
+```
+cd django_school
+```
+
 Create the database:
 
 ```bash
